@@ -33,11 +33,11 @@ There are the supported parameters:
 | debug | 0  | Enable Debug Messages | http://192.168.4.1/setparameters?debug=0 |
 | hport | 14550  | GCS UDP Port | http://192.168.4.1/setparameters?hport=14550 |
 | mode | 0  | Set to AP Mode (0) or Station Mode (1) | http://192.168.4.1/setparameters?mode=1 |
-| pwd | pixracer  | WiFi AP Password | http://192.168.4.1/setparameters?pwd=pixracer |
-| pwdsta | PixRacer  | WiFi STA Password | http://192.168.4.1/setparameters?pwdsta=PixRacer |
+| pwd | mavbridge  | WiFi AP Password | http://192.168.4.1/setparameters?pwd=mavbridge |
+| pwdsta | MavBridge  | WiFi STA Password | http://192.168.4.1/setparameters?pwdsta=MavBridge |
 | reboot | 0  | Reboot the WiFi Bridge | http://192.168.4.1/setparameters?reboot=1 |
-| ssid | PixRacer  | WiFi AP SSID | http://192.168.4.1/setparameters?ssid=PixRacer |
-| ssidsta | PixRacer  | WiFi STA SSID | http://192.168.4.1/setparameters?ssidsta=PixRacer |
+| ssid | MavBridge  | WiFi AP SSID | http://192.168.4.1/setparameters?ssid=MavBridge |
+| ssidsta | MavBridge  | WiFi STA SSID | http://192.168.4.1/setparameters?ssidsta=MavBridge |
 | ipsta | 0.0.0.0 | Wifi STA Static IP | http://192.168.4.1/setparameters?ipsta=192.168.4.2 |
 | gatewaysta | 0.0.0.0 | Wifi STA Gateway | http://192.168.4.1/setparameters?gatewaysta=192.168.4.1 |
 | subnetsta | 0.0.0.0 | Wifi STA Subnet | http://192.168.4.1/setparameters?subnetsta=255.255.255.0 |
